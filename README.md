@@ -29,8 +29,7 @@
 :-------------------------------------------------------------------------:
 `---._.-------------------------------------------------------------._.---'
 
-    
-Various information compiled for EE 140 taught by [Dr. Shrikant Jadhav](https://www.linkedin.com/in/jadhavshrikant) at SJSU.
+Various projects and information compiled for EE 178 taught by [Dr. Shrikant Jadhav](https://www.linkedin.com/in/jadhavshrikant) at SJSU.
 
 ## FPGA
 FPGA stands for field-programmable gate array.
