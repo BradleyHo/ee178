@@ -4,6 +4,8 @@
 
 In this laboratory assignment, we're implementing a two-input and one-output XOR logic gate. This assignment is a review of EE 118 to help us refresh basic EDA skills using Xilinx Vivado including design simulation, design synthesis, design implementation, and bitstream generation. 
 
+![This is an image](https://www.electronicshub.org/wp-content/uploads/2015/07/IEEE-REP.jpg)
+
 | Input | Input | Output |
 | :---: | :---: | :---: |
 | __A__ | __B__ | __A ⊕ B__ |
