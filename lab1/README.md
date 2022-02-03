@@ -35,4 +35,4 @@ In this laboratory assignment, we're implementing a two-input and one-output XOR
 
 
 ### YouTube Demonstration Video
-This is a [YouTube video]() demonstrating the verification process of the XOR logic gate on the Real Digital Blackboard.
+This is a [YouTube video](https://www.youtube.com/watch?v=tV2xyG6AKoM) demonstrating the verification process of the XOR logic gate on the Real Digital Blackboard.
