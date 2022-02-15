@@ -16,6 +16,8 @@ In this laboratory assignment, we're implementing a two-input and one-output XOR
 | 1 | 0 | 1 |
 | 1 | 1 | 0 |
 
+![Test Bench](https://cdn.discordapp.com/attachments/943284046161657866/943284119289335828/unknown.png)
+
 ### 4 Test Cases for Truth Table Verification
 ![Case 00](https://cdn.discordapp.com/attachments/938692795248562187/938692887128989706/IMG_5181.jpg)
 #### Case 1: Input 00, Output 0
