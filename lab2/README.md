@@ -2,7 +2,7 @@
 
 ## Laboratory Assignment #2
 
-In this laboratory assignment, we're implementing a two-input and one-output XOR logic gate. This assignment is a review of EE 118 to help us refresh basic EDA skills using Xilinx Vivado including design simulation, design synthesis, design implementation, and bitstream generation. 
+In this laboratory assignment, we're implementing a 1-bit full adder module by instantiating a half adder module as part of the design. Refer to the eleborated design for the digital circuit of the full adder implementation.
 
 ### 2-Input 1-Output XOR Logic Gate Symbols
 ![XOR Logic Gate](https://www.electronicshub.org/wp-content/uploads/2015/07/IEEE-REP.jpg)
@@ -17,6 +17,20 @@ In this laboratory assignment, we're implementing a two-input and one-output XOR
 | 1 | 1 | 0 |
 
 ![Test Bench](https://cdn.discordapp.com/attachments/943284046161657866/943284119289335828/unknown.png)
+#### Simulation of the Test Bench for a 1-Bit Full Adder Module
+<br/>
+
+![RTL Analysis](https://cdn.discordapp.com/attachments/943284046161657866/943424149295095818/unknown.png)
+#### Elaborated Design from RTL Analysis
+<br/>
+
+![Synthesis](https://cdn.discordapp.com/attachments/943284046161657866/943423383905914880/unknown.png)
+#### Synthesized Design from Synthesis
+<br/>
+
+![RTL Analysis](https://cdn.discordapp.com/attachments/943284046161657866/943423669621899325/unknown.png)
+#### Implemented Design from Implementation
+<br/>
 
 ### 4 Test Cases for Truth Table Verification
 ![Case 00](https://cdn.discordapp.com/attachments/938692795248562187/938692887128989706/IMG_5181.jpg)
