@@ -4,7 +4,7 @@
 
 In this laboratory assignment, we're implementing a 1-bit full adder module by instantiating a half adder module as part of the design. Refer to the eleborated design for the digital circuit of the full adder implementation.
 
-### 2-Input 1-Output XOR Logic Gate Truth Table
+### Full Adder Truth Table
 | Input | Input | Input | Output | Output |
 | :---: | :---: | :---: | :---: | :---: | 
 | __A__ | __B__ | __Carry In (C)__ | __Sum__ | __Carry Out__ |
