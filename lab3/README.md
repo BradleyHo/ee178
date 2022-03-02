@@ -23,4 +23,4 @@ The 4-digit 7-segment display on the Real Digital Blackboard FPGA will have outp
 <br/>
 
 ### YouTube Demonstration Video
-This is a [YouTube video](https://www.youtube.com/watch?v=gVjwgPLWqxM) demonstrating the verification process on the Real Digital Blackboard.
+This is a [YouTube video](https://www.youtube.com/watch?v=xjs_NFaPnp4) demonstrating the verification process on the Real Digital Blackboard.
