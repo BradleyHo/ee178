@@ -38,4 +38,4 @@ Carry Out = (C ⋅ (A ⊕ B)) + (A ⋅ B)
 <br/>
 
 ### YouTube Demonstration Video
-This is a [YouTube video](https://www.youtube.com/watch?v=gVjwgPLWqxM) demonstrating the verification process of the XOR logic gate on the Real Digital Blackboard.
+This is a [YouTube video](https://www.youtube.com/watch?v=gVjwgPLWqxM) demonstrating the verification process on the Real Digital Blackboard.
