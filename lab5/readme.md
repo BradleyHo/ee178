@@ -17,4 +17,4 @@ In this laboratory assignment, we are implementing a piano keyboard on the Real 
 <br/>
 
 ### YouTube Demonstration Video
-This is a [YouTube video](https://www.youtube.com/watch?v=FznCUkk_SsU) demonstrating the verification process on the Real Digital Blackboard.
+This is a [YouTube video](https://www.youtube.com/watch?v=nT3IJrp6rN0) demonstrating the verification process on the Real Digital Blackboard.
